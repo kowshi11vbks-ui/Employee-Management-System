@@ -24,5 +24,3 @@ Employee Management System is a Java application used to manage employee details
 3. Run the program:
    java Main
 
-## Author
-Kowshika
